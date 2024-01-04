@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.hero{
+    background: url(image/photo-1595664652035-0956d50e0311.avif);
+    height: 100vh;
+    background-position: bottom center;
+    background-size: cover;
+}
+
+.hero h1{
+    color: azure;
+}
